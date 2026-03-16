@@ -18,7 +18,7 @@ This Power BI project visualizes key HR insights related to employee attrition, 
 
 ## 🖼 Dashboard Preview
 
-HR Dashboard
+![HR Dashboard](hr_dashboard.png)
 
 ## 📂 File
 
