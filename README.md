@@ -1,33 +1,36 @@
-# HR Attrition Dashboard
+# 📊 HR Attrition Analysis Dashboard (Power BI)
 
-This project is an HR Attrition Analysis Dashboard created to analyze employee attrition trends and identify factors affecting employee turnover.
+This Power BI project visualizes key HR insights related to employee attrition, including attrition rate, department-wise attrition, salary band trends, gender analysis, and employee turnover patterns.
 
-## Tools Used
-
-* Microsoft Excel
-* Power BI
-* Data Cleaning
-* Dashboard Design
-* Data Visualization
-
-## Key Insights
+## 🔍 Dashboard Overview
 
 * Total Employees: 1470
 * Attrition Rate: 16%
-* Average Monthly Income: 6503
-* Higher attrition observed in Research & Development and Sales departments
-* Employees with lower salary bands showed higher attrition
-* Early years at the company had higher attrition trends
+* Avg Monthly Income: 6503
 
-## Dashboard Features
+## 🧠 Insights
 
-* Attrition by Department
-* Overall Attrition Rate
-* Attrition by Age Group
-* Attrition by Gender
-* Attrition by Salary Band
-* Attrition Trend by Years at Company
+* Higher attrition was observed in Research & Development and Sales departments.
+* Employees in the lower salary band showed higher attrition.
+* Attrition was higher among employees in the early years of service.
+* The 30–40 age group showed noticeable attrition levels.
+* Male employees had a higher attrition count compared to female employees.
 
-## Project Objective
+## 🖼 Dashboard Preview
 
-The objective of this dashboard is to help understand employee attrition patterns and support HR decision-making through data-driven insights.
+HR Dashboard
+
+## 📂 File
+
+* HR_Attrition_Dashboard.pbix
+
+## ⚙️ Tools Used
+
+* Power BI
+* Excel (Data Source)
+* DAX for calculations
+* Bar Chart, Pie Chart, Area Chart, and KPI Cards for visuals
+
+## ✨ Created by
+
+K. Harshini
